@@ -246,7 +246,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * [typia](https://github.com/samchon/typia) - 20,000x times faster runtime validator using pure TypeScript type. Only one line required like `typia.assert<T>(input)`. Also, supports 200x faster JSON serialization, and Protocol Buffer features. 🚀 (see also https://typia.io/docs)
 * [fta](https://github.com/sgb-io/fta) - Rust-based static analysis to monitor code quality
 * [dto-classes](https://github.com/rsinger86/dto-classes) - Developer-friendly parsing, validation & serialization. Static types by default. Uses properties for field schemas, not decorators.
-* [iso-locale](https://github.com/reacture-io/iso-locale) - A comprehensive TypeScript library providing ISO standards for handling countries, languages, dialects, and currencies.
+* [env-assert-typed](https://github.com/Yearnless/env-assert-typed) - Zero-dependency typed environment variable parser with automatic TypeScript inference, coerce/refine/transform, factory defaults. 528 B gzip.
 ## Built with TypeScript
 ### Mobile
 * :octocat: [ReactNative](https://reactnative.dev/) - Create native apps for Android, iOS, and more using React
